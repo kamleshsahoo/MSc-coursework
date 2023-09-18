@@ -1,0 +1,16 @@
+1) Very informative:-
+   http://codecapsule.com/2010/04/06/simulated-annealing-traveling-salesman/
+
+2) Very good paper with neat writing style. Can take cues from it:-
+   https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje24-ClcDtAhVB_qQKHYADDPgQFjABegQIBBAC&url=https%3A%2F%2Frepository.tudelft.nl%2Fislandora%2Fobject%2Fuuid%3A1a15154f-7d08-4c5c-bdc1-4966f958e498%2Fdatastream%2FOBJ%2Fdownload&usg=AOvVaw1Oxat_-fFFOFXpujgxx3XS
+
+3) Cooling schedules:
+   http://what-when-how.com/artificial-intelligence/a-comparison-of-cooling-schedules-for-simulated-annealing-artificial-intelligence/
+
+4) https://www.nap.edu/read/2026/chapter/3
+
+5) https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJse-ClMDtAhXSDOwKHVzVAQUQFjABegQIBRAC&url=https%3A%2F%2Flink.springer.com%2Fcontent%2Fpdf%2F10.1007%2F3-540-45718-6_72.pdf&usg=AOvVaw14c_r72d-WAYr_m1Mpf2t1
+
+6) https://pdfs.semanticscholar.org/4299/d0b1268036dfde18d3c85a5fc617d60cf1df.pdf
+
+7) http://www.psychicorigami.com/2007/06/28/tackling-the-travelling-salesman-problem-simmulated-annealing/
