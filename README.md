@@ -1,1 +1,1 @@
-## All projects/assignments done in MSc Computational Science, UvA
+## Projects/assignments done as part of MSc Computational Science, UvA
