@@ -1,4 +1,4 @@
-# Sentiment detection and Neural Langugae Models (NLMs)
+# Sentiment detection and Neural Language Models (NLMs)
 This project consists of two parts:
 - Optimizing sentiment classification techniques
   - unsupervised (lexicon based)
